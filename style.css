@@ -83,3 +83,13 @@ body {
   padding: 13px;
   text-align: center;
 }
+.copyright {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  padding: 13px;
+}
+.copyright p {
+  color: #ffffff;
+  font-size: 9px;
+}
