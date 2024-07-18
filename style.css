@@ -18,7 +18,7 @@ body {
 
 .container {
   background-color: aliceblue;
-  width: 350px;
+  max-width: 400px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -29,6 +29,7 @@ body {
   box-shadow: rgb(0 0 0) 3px 3px 6px 0px inset,
     rgb(102 102 102 / 50%) -3px -3px 6px 1px inset;
   margin: 0px 12px 0px 12px;
+  width: auto;
 }
 .container p {
   font-size: 20px;
